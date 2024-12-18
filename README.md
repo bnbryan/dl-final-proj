@@ -5,7 +5,7 @@
 2. Run all code cells in "Define Class".
 3. Run all "Hyperparameter Sweeping" code cells and skip the get final result part.
 
-## TO do the actual experiment
+## To do the actual experiment
 1. Run first code cell in "Preparation".
 2. Run all code cells in "Define Class".
 3. Skip "Hyperparameter Sweeping".
