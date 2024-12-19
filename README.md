@@ -1,5 +1,7 @@
 # dl-final-proj
 
+Our model is on [NYU_DL_24_Final_lc5464.ipynb](./NYU_DL_24_Final_lc5464.ipynb)
+
 ## To do hypoerparameter sweep
 1. Run all code cells in "Preparation".
 2. Run all code cells in "Define Class".
